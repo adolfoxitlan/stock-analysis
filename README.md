@@ -11,4 +11,5 @@ On a second stage, we improved the code to make it faster by using variable arra
 
 ## Results
 
-![This is an image](https://github.com/adolfoxitlan/stock-analysis/blob/main/Resources/Resultados2017.jpg)
+![This is an image](https://github.com/adolfoxitlan/stock-analysis/blob/main/Resources/Resultados2017.jpg) ![This is an image](/stock-analysis/blob/main/Resources/Resultados2018.jpg)
+
