@@ -11,4 +11,4 @@ On a second stage, we improved the code to make it faster by using variable arra
 
 ## Results
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/adolfoxitlan/stock-analysis/blob/main/Resources/Resultados2017.jpg)
