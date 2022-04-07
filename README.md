@@ -31,4 +31,6 @@ Another detail that we can see from this analysis is that the higher the volume,
 <br/>
 ## Code
 
+First of all  I would like to show a how it looks the interface with the user.
+(https://github.com/adolfoxitlan/stock-analysis/blob/main/Resources/Green-Stock.mp4)
 
