@@ -11,5 +11,24 @@ On a second stage, we improved the code to make it faster by using variable arra
 
 ## Results
 
-![This is an image](https://github.com/adolfoxitlan/stock-analysis/blob/main/Resources/Resultados2017.jpg) ![This is an image](/stock-analysis/blob/main/Resources/Resultados2018.jpg)
+
+<img align="left" width="300" height="300" src="https://github.com/adolfoxitlan/stock-analysis/blob/main/Resources/Resultados2017.jpg"> After finishing the first process, we can determine that the stocks, in general, had gains in 2017.
+
+<br clear="left"/>
+<br clear="left"/>
+
+<img align="left" width="300" height="300" src="https://github.com/adolfoxitlan/stock-analysis/blob/main/Resources/Resultados2018.jpg"> But in 2018 there were significant changes, which show that DQ is quite unstable, but also we can see that RUN and ENPH are good investing candidates.
+
+Another detail that we can see from this analysis is that the higher the volume, the higher the losses, so definitely, DQ is no go.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+## Code
+
 
